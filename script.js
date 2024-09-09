@@ -7,5 +7,5 @@ function reverseAndTimes (arr){
     return arr.reverse().map(num => num*2);
 }
 console.log(reverseAndTimes([1,4,6,7]));
-console.log(reverseAndTimes([1,4,6,7]));
-console.log(reverseAndTimes([1,4,6,7]));
+console.log(reverseAndTimes([7,4,2,1]));
+console.log(reverseAndTimes([5]));
