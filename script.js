@@ -4,6 +4,8 @@
 //[5]             // [10]
 
 function reverseAndTimes (arr){
-    return arr.reverse().map(num => num*2)
+    return arr.reverse().map(num => num*2);
 }
-console
+console.log(reverseAndTimes([1,4,6,7]));
+console.log(reverseAndTimes([1,4,6,7]));
+console.log(reverseAndTimes([1,4,6,7]));
